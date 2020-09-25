@@ -3,7 +3,7 @@
 🇺🇸 Hello, my name is Melisa, welcome to my space. 
 🇦🇷 Hola, me llamo Melisa, bienvenida/o a mi pagina.
 
-- 🎨💻 I'm currently a software engineer working at Adobe 
+- 🎨💻 I'm a software engineer working at Adobe 
 - 📖 I'm currently reading Eloquent JavaScript
 - 💌 I enjoy mentoring women and BIPOC interested in software engineering [Schedule a chat](https://calendly.com/melisaim/30min)
 - 💻🏕 I attended a coding bootcamp for Fullstack Web Development in 2017
