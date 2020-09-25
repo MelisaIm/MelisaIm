@@ -3,13 +3,13 @@
 🇺🇸 Hello, my name is Melisa, welcome to my space. 
 🇦🇷 Hola, me llamo Melisa, bienvenida/o a mi pagina.
 
-- 🎨💻 I'm a software engineer working at Adobe 
-- 📖 I'm currently reading Eloquent JavaScript
-- 💌 I enjoy mentoring women and BIPOC interested in software engineering [Schedule a chat](https://calendly.com/melisaim/30min)
-- 💻🏕 I attended a coding bootcamp for Fullstack Web Development in 2017
+- 🎨💻  I'm a software engineer working at Adobe 
+- 📖  I'm currently reading Eloquent JavaScript
+- 💌  I enjoy mentoring women and BIPOC interested in software engineering [Schedule a chat](https://calendly.com/melisaim/30min)
+- 💻🏕  I attended a coding bootcamp for Fullstack Web Development in 2017
 - I was a recipient of the Adobe Digital Academy scholarship to support my transition into software development
 - Before becoming a software developer I studied Political Economy, worked as a waitress, froyo attendant, abuse agent (i.e. social media content moderation), and miscellaneous social media content analyst. 
-- 💎 My favorite organizations/resources are:
+- 💎  My favorite organizations/resources are:
     - [freeCodeCamp](https://www.freecodecamp.org/)
     - [Techqueria 🌮](https://techqueria.org/)
     - [Diversify Tech](https://www.diversifytech.co/)
