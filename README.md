@@ -17,6 +17,7 @@
     - [Hack the Hood - Code Switching](https://www.linkedin.com/posts/hackthehood_codeswitch-techprofessionals-activity-6543920535993139200-gJ7A)
     - [Twitter Threads (w/ Techqueria) - Journey into Tech](https://www.youtube.com/watch?v=MVPvWQS_08E&ab_channel=Techqueria)
     - [Lesbians Who Tech - Dear Impostor Syndrome, Let's Talk](https://www.youtube.com/watch?v=6FYreQemhP8&t=14s&ab_channel=MelisaIm)
+    - Arlo - Unconscious Biases: Beyond Seeing
 - Conferences/Events I have attended/will attend:
     - Intel Developers Conference '15
     - Google I/O '18
