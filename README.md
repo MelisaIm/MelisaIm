@@ -18,6 +18,7 @@
     - [Twitter Threads (w/ Techqueria) - Journey into Tech](https://www.youtube.com/watch?v=MVPvWQS_08E&ab_channel=Techqueria)
     - [Lesbians Who Tech - Dear Impostor Syndrome, Let's Talk](https://www.youtube.com/watch?v=6FYreQemhP8&t=14s&ab_channel=MelisaIm)
     - Arlo - Unconscious Biases: Beyond Seeing
+    - [NestFlight - First Gen in Tech Panel](https://www.youtube.com/watch?v=gjT7g3FlmYw&ab_channel=DigitalNEST)
 - Conferences/Events I have attended:
     - Intel Developers Conference '15
     - Google I/O '18
@@ -27,3 +28,4 @@
     - Grace Hopper Celebration (virtual) '20
     - Adobe MAX (virtual) '20
     - Adobe for All '19-'20
+    - NestFlight '21
