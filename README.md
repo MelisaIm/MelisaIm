@@ -4,7 +4,7 @@
 🇦🇷 Hola, me llamo Melisa, bienvenida/o a mi pagina.
 
 - 🎨💻  I'm a software engineer working at Adobe 
-- 💌  I enjoy mentoring women and BIPOC interested in software engineering [Schedule a chat](https://calendly.com/melisaim/30min)
+- 💌  I enjoy mentoring women and BIPOC interested in software engineering
 - 💻🏕  I attended a coding bootcamp for Fullstack Web Development in 2017
 - I was a recipient of the Adobe Digital Academy scholarship to support my transition into software development
 - Before becoming a software developer I studied Political Economy, worked as a waitress, froyo attendant, abuse agent (i.e. social media content moderation), and miscellaneous social media content analyst. 
