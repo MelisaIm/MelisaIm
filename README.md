@@ -18,6 +18,9 @@
     - [Lesbians Who Tech - Dear Impostor Syndrome, Let's Talk](https://www.youtube.com/watch?v=6FYreQemhP8&t=14s&ab_channel=MelisaIm)
     - Arlo - Unconscious Biases: Beyond Seeing
     - [NestFlight - First Gen in Tech Panel](https://www.youtube.com/watch?v=gjT7g3FlmYw&ab_channel=DigitalNEST)
+    - Adobe - APIA Heritage Month Speaker
+    - Adobe - ERGs Panel (HOLA + 3) 
+    - Silicon Slopes Latino - Career Night
 - Conferences/Events I have attended:
     - Intel Developers Conference '15
     - Google I/O '18
