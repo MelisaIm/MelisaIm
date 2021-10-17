@@ -32,6 +32,4 @@
     - Adobe for All '19-'20
     - NestFlight '21
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelisaIm&layout=compact&langs_count=10)](https://github.com/MelisaIm/github-readme-stats)
-
 
