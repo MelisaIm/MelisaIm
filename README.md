@@ -13,23 +13,26 @@
     - [Techqueria 🌮](https://techqueria.org/)
     - [Diversify Tech](https://www.diversifytech.co/)
 - I was a speaker at:
-    - [Hack the Hood - Code Switching](https://www.linkedin.com/posts/hackthehood_codeswitch-techprofessionals-activity-6543920535993139200-gJ7A)
-    - [Twitter Threads (w/ Techqueria) - Journey into Tech](https://www.youtube.com/watch?v=MVPvWQS_08E&ab_channel=Techqueria)
-    - [Lesbians Who Tech - Dear Impostor Syndrome, Let's Talk](https://www.youtube.com/watch?v=6FYreQemhP8&t=14s&ab_channel=MelisaIm)
-    - Arlo - Unconscious Biases: Beyond Seeing
-    - [NestFlight - First Gen in Tech Panel](https://www.youtube.com/watch?v=gjT7g3FlmYw&ab_channel=DigitalNEST)
-    - Adobe - APIA Heritage Month Speaker
-    - Adobe - ERGs Panel (HOLA + 3) 
-    - Silicon Slopes Latino - Career Night
+    - [Hack the Hood - Code Switching](https://www.linkedin.com/posts/hackthehood_codeswitch-techprofessionals-activity-6543920535993139200-gJ7A)<2018>
+    - [Twitter Threads (w/ Techqueria) - Journey into Tech](https://www.youtube.com/watch?v=MVPvWQS_08E&ab_channel=Techqueria) <2019>
+    - [Lesbians Who Tech - Dear Impostor Syndrome, Let's Talk](https://www.youtube.com/watch?v=6FYreQemhP8&t=14s&ab_channel=MelisaIm) <2019>
+    - Arlo - Unconscious Biases: Beyond Seeing <2020>
+    - [NestFlight - First Gen in Tech Panel](https://www.youtube.com/watch?v=gjT7g3FlmYw&ab_channel=DigitalNEST) <2021>
+    - Adobe - APIA Heritage Month Speaker <2021>
+    - Adobe - ERGs Panel (HOLA + 3) <2021>
+    - Silicon Slopes Latino (Career Night) - Choose Your Own Adventure <2021>
+    - Jopwell - How to get a job as a Software Engineer <2021>
+    - Upcoming: Hack the Hood - Career Exposure Panel <2021>
 - Conferences/Events I have attended:
-    - Intel Developers Conference '15
-    - Google I/O '18
-    - Lesbians Who Tech '19
-    - Recruiting for Adobe at Cornell University '19
-    - An Event Apart '19
-    - Grace Hopper Celebration (virtual) '20
-    - Adobe MAX (virtual) '20
-    - Adobe for All '19-'20
-    - NestFlight '21
+    - Intel Developers Conference <2015>
+    - Google I/O <2018>
+    - Lesbians Who Tech <2019>
+    - Recruiting for Adobe at Cornell University <2019>
+    - An Event Apart <2019>
+    - Grace Hopper Celebration (virtual) <2020>
+    - Adobe MAX <2020-2021>
+    - Adobe for All <2019-2021>
+    - NestFlight <2021>
+    - Techqueria's Latinx Heritage Month Summit <2021>
 
 
