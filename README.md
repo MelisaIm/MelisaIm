@@ -22,7 +22,7 @@
     - Adobe - ERGs Panel (HOLA + 3) <2021>
     - Silicon Slopes Latino (Career Night) - Choose Your Own Adventure <2021>
     - Jopwell - How to get a job as a Software Engineer <2021>
-    - Upcoming: Hack the Hood - Career Exposure Panel <2021>
+    - Hack the Hood - Career Exposure Panel <2021>
 - Conferences/Events I have attended:
     - Intel Developers Conference <2015>
     - Google I/O <2018>
