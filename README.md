@@ -24,6 +24,7 @@
     - Silicon Slopes Latino (Career Night) - Choose Your Own Adventure <2021>
     - Jopwell - How to get a job as a Software Engineer <2021>
     - Hack the Hood - Career Exposure Panel <2021>
+    - MLT Career Showcase <2022> 
 - Conferences/Events I have attended:
     - Intel Developers Conference <2015>
     - Google I/O <2018>
@@ -35,7 +36,6 @@
     - Adobe for All <2019-2021>
     - NestFlight <2021>
     - Techqueria's Latinx Heritage Month Summit <2021>
-    - MLT Career Showcase <2022> 
     - Adobe Tech Summit (organizer for DEI track) <2022>
 - I mentored:
     - Adobe Digital Academy students <2019-Present>
