@@ -8,6 +8,7 @@
 - 💻🏕  I attended a coding bootcamp for Fullstack Web Development in 2017
 - I was a recipient of the Adobe Digital Academy scholarship to support my transition into software development
 - Before becoming a software developer I studied Political Economy, worked as a waitress, froyo attendant, abuse agent (i.e. social media content moderation), and miscellaneous social media content analyst. 
+- I earned a Bachelor's of Computer Science from [Oregon State University](https://ecampus.oregonstate.edu/online-degrees/undergraduate/computer-science-postbacc) in 2022
 - 💎  My favorite organizations/resources are:
     - [freeCodeCamp](https://www.freecodecamp.org/)
     - [Techqueria 🌮](https://techqueria.org/)
@@ -34,5 +35,9 @@
     - Adobe for All <2019-2021>
     - NestFlight <2021>
     - Techqueria's Latinx Heritage Month Summit <2021>
-
+    - MLT Career Showcase <2022> 
+    - Adobe Tech Summit (organizer for DEI track) <2022>
+- I mentored:
+    - Adobe Digital Academy students <2019-Present>
+    - Galvanize/Hack Reactor <2021> 
 
