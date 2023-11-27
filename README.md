@@ -32,8 +32,8 @@
     - Recruiting for Adobe at Cornell University <2019>
     - An Event Apart <2019>
     - Grace Hopper Celebration (virtual) <2020>
-    - Adobe MAX <2020-2021>
-    - Adobe for All <2019-2021>
+    - Adobe MAX Online <2020-2023>
+    - Adobe for All <2019-2023>
     - NestFlight <2021>
     - Techqueria's Latinx Heritage Month Summit <2021>
     - Adobe Tech Summit (organizer for DEI track) <2022>
