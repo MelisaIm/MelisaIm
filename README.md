@@ -10,6 +10,8 @@
 - Before becoming a software developer I studied Political Economy at UC Berkeley, worked as a waitress, froyo attendant, abuse agent (i.e. social media content moderation), and miscellaneous social media content analyst. 
 - I earned a Bachelor's of Computer Science from [Oregon State University](https://ecampus.oregonstate.edu/online-degrees/undergraduate/computer-science-postbacc) in 2022
 - 💎  My favorite organizations/resources are:
+    - [The Little Tech Book Club](https://github.com/LittleTechBookClub)
+        - An organization I have started and am growing, to help inexperienced devs learn how to collaborate on projects and to help experienced devs make the time to continue learning by reading, discussing, and mentoring
     - [freeCodeCamp](https://www.freecodecamp.org/)
     - [Techqueria 🌮](https://techqueria.org/)
     - [Diversify Tech](https://www.diversifytech.co/)
