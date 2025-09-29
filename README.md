@@ -10,6 +10,8 @@
 - Before becoming a software developer I studied Political Economy at UC Berkeley, worked as a waitress, froyo attendant, abuse agent (i.e. social media content moderation), and miscellaneous social media content analyst. 
 - I earned a Bachelor's of Computer Science from [Oregon State University](https://ecampus.oregonstate.edu/online-degrees/undergraduate/computer-science-postbacc) in 2022
 - 💎  My favorite organizations/resources are:
+    - Dallas Software Developers Meetup community
+    - Let's Get Technical
     - [The Little Tech Book Club](https://github.com/LittleTechBookClub)
         - An organization I have started and am growing, to help inexperienced devs learn how to collaborate on projects and to help experienced devs make the time to continue learning by reading, discussing, and mentoring
     - [freeCodeCamp](https://www.freecodecamp.org/)
@@ -17,7 +19,9 @@
     - [Diversify Tech](https://www.diversifytech.co/)
 - I was a speaker at:
     - Commit Your Code - Beyond the Opening Moves: Playing the Long Game to Senior <2025>
-    - Women@Adobe L&L - A Tale of Horses and Unicorns <2025> 
+    - Adobe Digital Academy - Growth Mindset <2025> 
+    - Women@Adobe L&L - A Tale of Horses and Unicorns <2025>
+    - Adobe Digital Academy - Student Orientation <2025>
     - General Assembly - Fireside Chat Guest Speaker <2023> 
     - MLT Career Showcase <2022> 
     - [NestFlight - First Gen in Tech Panel](https://www.youtube.com/watch?v=gjT7g3FlmYw&ab_channel=DigitalNEST) <2021>
@@ -33,9 +37,9 @@
 
 - Conferences/Events I have attended:
     - Commit your Code Conference <2025>
+    - Adobe Tech Summit (organizer for DEI track) <2022>
     - Adobe MAX Online <2020-Present>
     - Adobe for All <2019-Present>
-    - Adobe Tech Summit (organizer for DEI track) <2022>
     - NestFlight <2021>
     - Techqueria's Latinx Heritage Month Summit <2021>
     - Grace Hopper Celebration (virtual) <2020>
@@ -46,6 +50,7 @@
     - Intel Developers Conference <2015>
 
 - I mentored:
+    - Dallas Software Developers Cohort Lead <2025>
     - Little Tech Book Club <2024-Present>
     - Galvanize/Hack Reactor <2021>
     - Adobe Digital Academy students <2019-Present>
